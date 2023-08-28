@@ -50,7 +50,7 @@ This repository includes files with Ruby on Rails that can be used to recreate a
 
 ## 🔑 Key Features <a name="key-features"></a>
 
-### Decode a Morse code message [Requirements](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/morse_code.md)
+### Hello Rails [Requirements](https://github.com/microverseinc/curriculum-rails/blob/main/blog-app/exercises/hello_world_project_v1_1.md)
 
 * Ruby version
 
